@@ -1,0 +1,72 @@
+﻿@model SourceControlAssignment1.Models.employee
+@{
+    ViewBag.Title = "Index";
+}
+<html>
+<head>
+    <title>DataAnnotatioAssignment</title>
+    <script src="~/scripts/jquery.validate.min.js"></script>
+    <script src="~/scripts/jquery-1.10.2.min.js"></script>
+</head>
+<body>
+    <br />
+    @using (Html.BeginForm("submitdata", "home", FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Registration Form</legend>
+            <ol>
+                <li>
+                    @Html.DisplayName("Id")
+                    @Html.TextBoxFor(x => x.id)
+                    @Html.ValidationMessageFor(x => x.id)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("FirstName")
+                    @Html.TextBoxFor(x => x.firstname)
+                    @Html.ValidationMessageFor(x => x.firstname)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("LastName")
+                    @Html.TextBoxFor(x => x.lastname)
+                    @Html.ValidationMessageFor(x => x.lastname)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("Email")
+                    @Html.TextBoxFor(x => x.email)
+                    @Html.ValidationMessageFor(x => x.email)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("Confirmmail")
+                    @Html.TextBoxFor(x => x.confirmmail)
+                    @Html.ValidationMessageFor(x => x.confirmmail)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("Age")
+                    @Html.TextBoxFor(x => x.Age)
+                    @Html.ValidationMessageFor(x => x.Age)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("Phone")
+                    @Html.TextBoxFor(x => x.phone)
+                    @Html.ValidationMessageFor(x => x.phone)
+                </li>
+                <br />
+                <li>
+                    @Html.DisplayName("Hiredate")
+                    @Html.TextBoxFor(x => x.hiredate)
+                    @Html.ValidationMessageFor(x => x.hiredate)
+                </li>
+            </ol>
+            <br />
+            <input type="submit" value="Save Student Details" />
+        </fieldset>
+    }
+</body>
+</html>
+
