@@ -1,0 +1,10 @@
+2020-12-21 07:58:12,139 [7] ERROR SourceControlFinalAssignment.Controllers.userdetailController [(null)] - id is null
+2020-12-21 07:58:12,164 [7] INFO  SourceControlFinalAssignment.Controllers.userdetailController [(null)] - id should not be null
+2020-12-21 07:58:12,183 [7] FATAL SourceControlFinalAssignment.Controllers.userdetailController [(null)] - Result not found
+2020-12-21 08:08:03,438 [7] ERROR SourceControlFinalAssignment.Controllers.userdetailController [(null)] - id is null
+2020-12-21 08:08:03,462 [7] INFO  SourceControlFinalAssignment.Controllers.userdetailController [(null)] - id should not be null
+2020-12-21 08:08:03,480 [7] FATAL SourceControlFinalAssignment.Controllers.userdetailController [(null)] - Result not found
+2020-12-21 10:21:52,906 [7] INFO  SourceControlFinalAssignment.Controllers.userdetailController [(null)] - Data edited
+2020-12-21 10:21:55,998 [7] ERROR SourceControlFinalAssignment.Controllers.userdetailController [(null)] - id is null
+2020-12-21 10:21:55,999 [7] INFO  SourceControlFinalAssignment.Controllers.userdetailController [(null)] - id should not be null
+2020-12-21 10:21:56,009 [7] FATAL SourceControlFinalAssignment.Controllers.userdetailController [(null)] - Result not found
