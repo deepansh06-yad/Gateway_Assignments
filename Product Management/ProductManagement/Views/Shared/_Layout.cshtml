@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/alertify.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/themes/default.min.css" rel="stylesheet" />
+    <link href="~/Content/Customcss.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                @Html.ActionLink("Product Management", "Index", "product", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="sidenavbar">
+                <br />
+                <h5 style="color:white"><img src="~/Image/user.png" height="30" width="30" />Welcome - @User.Identity.Name </h5>
+                <br />
+                @Html.ActionLink("Add Product", "CreateorEdit", "product")
+                @Html.ActionLink("View Product", "Index", "product")
+                @Html.ActionLink("Add Category", "CreateorEdit", "category")
+                @Html.ActionLink("View Category", "Index", "category")
+            </div>
+            <ul class="nav navbar-nav">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    
+                    <li style="text-align:left">@Html.ActionLink("Logout", "Logout", "Authenticate")</li>
+                }
+                else
+                {
+                    <li>@Html.ActionLink("Login", "Login", "Authenticate")</li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <div class="container main">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - DeepanshYadav</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/alertify.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>
