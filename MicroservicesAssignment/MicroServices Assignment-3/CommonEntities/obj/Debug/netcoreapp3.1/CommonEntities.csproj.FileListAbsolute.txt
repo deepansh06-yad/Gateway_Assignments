@@ -1,0 +1,9 @@
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\obj\Debug\netcoreapp3.1\CommonEntities.csprojAssemblyReference.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\obj\Debug\netcoreapp3.1\CommonEntities.AssemblyInfoInputs.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\obj\Debug\netcoreapp3.1\CommonEntities.AssemblyInfo.cs
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\obj\Debug\netcoreapp3.1\CommonEntities.csproj.CoreCompileInputs.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\bin\Debug\netcoreapp3.1\CommonEntities.deps.json
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\bin\Debug\netcoreapp3.1\CommonEntities.dll
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\bin\Debug\netcoreapp3.1\CommonEntities.pdb
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\obj\Debug\netcoreapp3.1\CommonEntities.dll
+C:\Users\deepa\source\repos\MicroserviceAssignment\CommonEntities\obj\Debug\netcoreapp3.1\CommonEntities.pdb

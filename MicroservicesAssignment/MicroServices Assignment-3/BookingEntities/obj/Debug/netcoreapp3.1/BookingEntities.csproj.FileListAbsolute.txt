@@ -1,0 +1,8 @@
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.AssemblyInfoInputs.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.AssemblyInfo.cs
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.csproj.CoreCompileInputs.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\bin\Debug\netcoreapp3.1\BookingEntities.deps.json
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\bin\Debug\netcoreapp3.1\BookingEntities.dll
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\bin\Debug\netcoreapp3.1\BookingEntities.pdb
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.dll
+C:\Users\deepa\source\repos\MicroserviceAssignment\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.pdb

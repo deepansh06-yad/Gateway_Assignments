@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarageApi", "GarageApi\GarageApi.csproj", "{5061878A-824E-4709-82FC-2E3B23B31F4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarageEntities", "GarageEntities\GarageEntities.csproj", "{4CC56B71-B85C-43F5-8A54-FE9F1B405230}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonEntities", "CommonEntities\CommonEntities.csproj", "{84BB5048-D10D-48DE-9E51-7B71049F59BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarageBooking", "GarageBooking\GarageBooking.csproj", "{83DB3E5A-A5A6-4E61-935C-218AB86B1628}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingEntities", "BookingEntities\BookingEntities.csproj", "{C9A6666E-2318-43E8-B451-00343B00E258}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.httpaggregator", "Web.httpaggregator\Web.httpaggregator.csproj", "{6FE5478A-FC74-45ED-AEA5-6833EED94716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5061878A-824E-4709-82FC-2E3B23B31F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5061878A-824E-4709-82FC-2E3B23B31F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5061878A-824E-4709-82FC-2E3B23B31F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5061878A-824E-4709-82FC-2E3B23B31F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC56B71-B85C-43F5-8A54-FE9F1B405230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC56B71-B85C-43F5-8A54-FE9F1B405230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC56B71-B85C-43F5-8A54-FE9F1B405230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC56B71-B85C-43F5-8A54-FE9F1B405230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BB5048-D10D-48DE-9E51-7B71049F59BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BB5048-D10D-48DE-9E51-7B71049F59BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BB5048-D10D-48DE-9E51-7B71049F59BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BB5048-D10D-48DE-9E51-7B71049F59BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DB3E5A-A5A6-4E61-935C-218AB86B1628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DB3E5A-A5A6-4E61-935C-218AB86B1628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DB3E5A-A5A6-4E61-935C-218AB86B1628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DB3E5A-A5A6-4E61-935C-218AB86B1628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A6666E-2318-43E8-B451-00343B00E258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A6666E-2318-43E8-B451-00343B00E258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A6666E-2318-43E8-B451-00343B00E258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A6666E-2318-43E8-B451-00343B00E258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE5478A-FC74-45ED-AEA5-6833EED94716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE5478A-FC74-45ED-AEA5-6833EED94716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE5478A-FC74-45ED-AEA5-6833EED94716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE5478A-FC74-45ED-AEA5-6833EED94716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C835BAFC-C0BD-40BC-9F0E-506560D218A8}
+	EndGlobalSection
+EndGlobal

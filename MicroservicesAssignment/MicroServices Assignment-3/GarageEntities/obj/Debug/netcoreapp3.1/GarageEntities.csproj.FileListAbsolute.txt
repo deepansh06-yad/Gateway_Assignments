@@ -1,0 +1,8 @@
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\obj\Debug\netcoreapp3.1\GarageEntities.AssemblyInfoInputs.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\obj\Debug\netcoreapp3.1\GarageEntities.AssemblyInfo.cs
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\obj\Debug\netcoreapp3.1\GarageEntities.csproj.CoreCompileInputs.cache
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\bin\Debug\netcoreapp3.1\GarageEntities.deps.json
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\bin\Debug\netcoreapp3.1\GarageEntities.dll
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\bin\Debug\netcoreapp3.1\GarageEntities.pdb
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\obj\Debug\netcoreapp3.1\GarageEntities.dll
+C:\Users\deepa\source\repos\MicroserviceAssignment\GarageEntities\obj\Debug\netcoreapp3.1\GarageEntities.pdb
