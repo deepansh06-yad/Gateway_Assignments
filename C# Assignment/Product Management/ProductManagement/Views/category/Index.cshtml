@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ProductManagement.Models.Categorymodel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/Customcss.css" rel="stylesheet" />
+<link href="~/Content/style.css" rel="stylesheet" />
+<p style="margin-top:5%">
+    <a href="@Url.Action("CreateorEdit","Category")" class="btn btn-default"><i class="fa fa-plus"></i> Create New</a>
+</p>
+<fieldset>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <td>
+                    <a href="@Url.Action("CreateorEdit", "category", new { id = item.Id})" class="btn btn-default"><i class="fa fa-pencil"></i>  Edit</a> |
+
+                    <a onclick="Delete(@item.Id)" class="btn btn-danger"><i class="fa fa-trash"></i>  Delete</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+</fieldset>
+@section scripts{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            var deletMessage = '@TempData["DeleteMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+            if (deletMessage!='') {
+                alertify.error(deletMessage);
+            }
+
+        });
+
+
+        function Delete(id) {
+            alertify.confirm('Web Api CRUD Operations','Are You Sure to Delete this Record ?',function(){
+                window.location.href = '@Url.Action("Delete","Category")/' + id;
+
+            },null );
+        }
+    </script>
+}

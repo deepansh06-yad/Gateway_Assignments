@@ -1,0 +1,126 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IEnumerable<ProductManagement.Models.Productslist>
+@*@using PagedList;
+    @using PagedList.Mvc;*@
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/Customcss.css" rel="stylesheet" />
+<link href="~/Content/style.css" rel="stylesheet" />
+
+<p style="margin-top:2%">
+    <a href="@Url.Action("CreateorEdit","product")" class="btn btn-default"><i class="fa fa-plus"></i> Create New</a>
+</p>
+
+@using (Html.BeginForm("Index", "product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <p style="text-align:right">
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+
+}
+
+
+    @using (Html.BeginForm("Deletemultipledata", "product", FormMethod.Post))
+    {
+
+        
+        <fieldset>
+            <table class="table">
+                <tr>
+                    <th>
+
+                    </th>
+                    <th>
+                        @Html.ActionLink("Name", "Index", new { sortby = ViewBag.Sortnameparameter })
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().Price)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().Quantity)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().ImagePath)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().ShortDescription)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().Detaildescription)
+                    </th>
+                    <th>
+                        @Html.ActionLink("Category", "Index", new { sortby = ViewBag.Sortcategoryparameter })
+                    </th>
+                    <th>Actions</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+                            <input type="checkbox" name="id" id="id" value="@item.Id" />
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Quantity)
+                        </td>
+                        <td>
+                            <img src="@Url.Content(item.ImagePath)" width="50" height="50" />
+
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ShortDescription)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Detaildescription)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Category1.CategoryName)
+                        </td>
+                        <td>
+                            <a href="@Url.Action("CreateorEdit", "product", new { id = item.Id })" class="btn btn-default"><i class="fa fa-pencil"></i>  Edit</a> |
+
+                            <a onclick="Delete(@item.Id)" class="btn btn-danger"><i class="fa fa-trash"></i>  Delete</a>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </fieldset>
+        <input type="submit" value="Delete Selected Items" class="btn btn-danger" />
+    }
+   
+
+@section scripts{
+<script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            var deletMessage = '@TempData["DeleteMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+            if (deletMessage!='') {
+                alertify.error(deletMessage);
+            }
+
+        });
+
+
+        function Delete(id) {
+            alertify.confirm('Web Api CRUD Operations','Are You Sure to Delete this Record ?',function(){
+                window.location.href = '@Url.Action("Delete","product")/' + id;
+
+            },null );
+        }
+</script>
+}

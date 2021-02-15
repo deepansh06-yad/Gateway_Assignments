@@ -1,0 +1,6 @@
+C:\Users\deepa\documents\visual studio 2015\Projects\Product Management\Productmanagement.Tests\obj\Debug\Productmanagement.Tests.csprojResolveAssemblyReference.cache
+C:\Users\deepa\documents\visual studio 2015\Projects\Product Management\Productmanagement.Tests\bin\Debug\Productmanagement.Tests.dll
+C:\Users\deepa\documents\visual studio 2015\Projects\Product Management\Productmanagement.Tests\bin\Debug\Productmanagement.Tests.pdb
+C:\Users\deepa\documents\visual studio 2015\Projects\Product Management\Productmanagement.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\deepa\documents\visual studio 2015\Projects\Product Management\Productmanagement.Tests\obj\Debug\Productmanagement.Tests.dll
+C:\Users\deepa\documents\visual studio 2015\Projects\Product Management\Productmanagement.Tests\obj\Debug\Productmanagement.Tests.pdb
