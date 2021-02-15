@@ -1,0 +1,6 @@
+C:\Users\deepa\source\repos\NetFinalAssignment\Models\bin\Debug\Models.dll
+C:\Users\deepa\source\repos\NetFinalAssignment\Models\bin\Debug\Models.pdb
+C:\Users\deepa\source\repos\NetFinalAssignment\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\deepa\source\repos\NetFinalAssignment\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\deepa\source\repos\NetFinalAssignment\Models\obj\Debug\Models.dll
+C:\Users\deepa\source\repos\NetFinalAssignment\Models\obj\Debug\Models.pdb
