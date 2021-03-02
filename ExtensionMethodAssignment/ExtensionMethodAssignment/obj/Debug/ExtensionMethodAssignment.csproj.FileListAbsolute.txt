@@ -1,0 +1,7 @@
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\obj\Debug\ExtensionMethodAssignment.csprojAssemblyReference.cache
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\obj\Debug\ExtensionMethodAssignment.csproj.CoreCompileInputs.cache
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\bin\Debug\ExtensionMethodAssignment.exe.config
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\bin\Debug\ExtensionMethodAssignment.exe
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\bin\Debug\ExtensionMethodAssignment.pdb
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\obj\Debug\ExtensionMethodAssignment.exe
+E:\ExtensionMethodAssignment\ExtensionMethodAssignment\obj\Debug\ExtensionMethodAssignment.pdb
