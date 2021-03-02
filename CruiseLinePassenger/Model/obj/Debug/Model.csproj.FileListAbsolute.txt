@@ -1,0 +1,6 @@
+E:\Projects\CruiseLinePassenger\Model\bin\Debug\Model.dll
+E:\Projects\CruiseLinePassenger\Model\bin\Debug\Model.pdb
+E:\Projects\CruiseLinePassenger\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Projects\CruiseLinePassenger\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Projects\CruiseLinePassenger\Model\obj\Debug\Model.dll
+E:\Projects\CruiseLinePassenger\Model\obj\Debug\Model.pdb

@@ -1,0 +1,16 @@
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\DAL.dll.config
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\DAL.dll
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\DAL.pdb
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\EntityFramework.dll
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\Model.dll
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\Model.pdb
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\EntityFramework.xml
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\CruiseLinePassenger\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Projects\CruiseLinePassenger\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Projects\CruiseLinePassenger\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Projects\CruiseLinePassenger\DAL\obj\Debug\DAL.dll
+E:\Projects\CruiseLinePassenger\DAL\obj\Debug\DAL.pdb
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\AutoMapper.dll
+E:\Projects\CruiseLinePassenger\DAL\bin\Debug\AutoMapper.xml
