@@ -1,0 +1,39 @@
+﻿@model IEnumerable<HRM.Models.ManagersModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/style.css" rel="stylesheet" />
+<p>
+    <a href="@Url.Action("CreateorEdit","Manager")" class="btn btn-default"><i class="fa fa-plus"></i>Add Manager</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manager)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manager)
+            </td>
+            <td>
+               <a href="@Url.Action("CreateorEdit","Manager",new { id=item.Id})" class="btn btn-default"><i class="fa fa-pencil"></i>Edit</a>
+               <a href="@Url.Action("Deletemanager","Manager",new { id=item.Id})" class="btn btn-default"><i class="fa fa-trash"></i>Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+

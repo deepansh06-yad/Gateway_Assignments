@@ -1,0 +1,34 @@
+﻿@model HRM.Models.DepartmentsModel
+
+@{
+    ViewData["Title"] = "AddorEdit";
+}
+<link href="~/css/style.css" rel="stylesheet" />
+<hr />
+<div class="row">
+    @using (Html.BeginForm("AddorEdit", "Department", FormMethod.Post))
+    {
+        <div class="col-md-4">
+            <form asp-action="AddorEdit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Department)
+                    @Html.EditorFor(model => model.Department)
+                    @Html.ValidationMessageFor(model => model.Department)
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    }
+    </div>
+
+<div>
+    <a asp-action="Index">Back to Dashboard</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

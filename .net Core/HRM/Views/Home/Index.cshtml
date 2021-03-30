@@ -1,0 +1,6 @@
+﻿@{ ViewData["Title"] = "Home Page"; }
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h3 style="text-align:center; margin-top:25%">Welcome - {@User.Identity.Name}<b></b></h3>
+}
