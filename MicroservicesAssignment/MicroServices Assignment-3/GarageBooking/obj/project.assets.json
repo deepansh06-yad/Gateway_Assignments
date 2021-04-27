@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageBooking\\GarageBooking.csproj",
+      "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageBooking\\GarageBooking.csproj",
       "projectName": "GarageBooking",
-      "projectPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageBooking\\GarageBooking.csproj",
+      "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageBooking\\GarageBooking.csproj",
       "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageBooking\\obj\\",
+      "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageBooking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -201,11 +201,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\BookingEntities.csproj": {
-              "projectPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\BookingEntities.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\BookingEntities.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\BookingEntities.csproj"
             },
-            "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\CommonEntities.csproj": {
-              "projectPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\CommonEntities.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\CommonEntities.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\CommonEntities.csproj"
             }
           }
         }

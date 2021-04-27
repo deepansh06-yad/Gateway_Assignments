@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\BookingEntities.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\BookingEntities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\BookingEntities.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\BookingEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\BookingEntities.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\BookingEntities.csproj",
         "projectName": "BookingEntities",
-        "projectPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\BookingEntities.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\BookingEntities.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\BookingEntities\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\BookingEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

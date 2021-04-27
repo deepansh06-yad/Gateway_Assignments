@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\CommonEntities.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\CommonEntities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\CommonEntities.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\CommonEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\CommonEntities.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\CommonEntities.csproj",
         "projectName": "CommonEntities",
-        "projectPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\CommonEntities.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\CommonEntities.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\CommonEntities\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\CommonEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

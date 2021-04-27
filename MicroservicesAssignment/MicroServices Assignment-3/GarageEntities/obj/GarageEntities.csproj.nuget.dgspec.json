@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageEntities\\GarageEntities.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageEntities\\GarageEntities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageEntities\\GarageEntities.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageEntities\\GarageEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageEntities\\GarageEntities.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageEntities\\GarageEntities.csproj",
         "projectName": "GarageEntities",
-        "projectPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageEntities\\GarageEntities.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageEntities\\GarageEntities.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\source\\repos\\MicroserviceAssignment\\GarageEntities\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\MicroservicesAssignment\\MicroServices Assignment-3\\GarageEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
