@@ -2,8 +2,8 @@
   "companies": [
     {
       "id": "43",
-      "email": "aarsh@gmail.com",
-      "name": "gdg",
+      "email": "deepansh@gmail.com",
+      "name": "Deepansh",
       "totalEmployee": 3,
       "address": "34 t4veywu5jyyjyjyfu",
       "isCompanyActive": "No",
@@ -23,8 +23,8 @@
     },
     {
       "id": "7878",
-      "email": "pragya@gmail.com",
-      "name": "Pragya",
+      "email": "john@gmail.com",
+      "name": "john",
       "totalEmployee": 5,
       "address": " f  dkflklklk kglkdlkgdlklk",
       "isCompanyActive": "Yes",
