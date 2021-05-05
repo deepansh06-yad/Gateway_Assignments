@@ -30,9 +30,9 @@ namespace DAL.HRM.Repository
                 employee.Password = model.Password;
                 _context.Employees.Add(employee);
                 _context.SaveChanges();
-                return "Employee is Created successfully";
+                return "";
             }
-            return "Model is empty";
+            return "";
         }
 
         public string DeleteEmployee(int Id)

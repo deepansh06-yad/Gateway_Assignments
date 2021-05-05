@@ -3,3 +3,9 @@ c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.
 c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.csprojResolveAssemblyReference.cache
 c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.dll
 c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.Model\bin\Debug\HM.Model.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.Model\bin\Debug\HM.Model.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.csprojAssemblyReference.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.csproj.CoreCompileInputs.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.Model\obj\Debug\HM.Model.pdb

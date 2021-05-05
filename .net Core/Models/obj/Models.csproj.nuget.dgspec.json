@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\database-main\\Models\\Models.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\Models.csproj": {}
   },
   "projects": {
-    "D:\\database-main\\Models\\Models.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\database-main\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\database-main\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\deepansh.yadav\\.nuget\\packages\\",
-        "outputPath": "D:\\database-main\\Models\\obj\\",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deepansh.yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

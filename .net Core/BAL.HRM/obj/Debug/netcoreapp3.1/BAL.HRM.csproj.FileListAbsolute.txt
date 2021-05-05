@@ -40,3 +40,17 @@ D:\database-main\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.csproj.CoreCompileInput
 D:\database-main\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.csproj.CopyComplete
 D:\database-main\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.dll
 D:\database-main\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\BAL.HRM.deps.json
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\BAL.HRM.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\BAL.HRM.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\DAL.HRM.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\DAL.HRM.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.csprojAssemblyReference.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.AssemblyInfoInputs.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.AssemblyInfo.cs
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.csproj.CoreCompileInputs.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.csproj.CopyComplete
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\BAL.HRM\obj\Debug\netcoreapp3.1\BAL.HRM.pdb

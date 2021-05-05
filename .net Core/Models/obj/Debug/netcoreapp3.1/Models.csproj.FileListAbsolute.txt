@@ -25,3 +25,12 @@ D:\database-main\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
 D:\database-main\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
 D:\database-main\Models\obj\Debug\netcoreapp3.1\Models.dll
 D:\database-main\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\.net Core\Models\obj\Debug\netcoreapp3.1\Models.pdb

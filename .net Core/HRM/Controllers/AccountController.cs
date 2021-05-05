@@ -1,11 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Security.Claims;
-using System.Threading.Tasks;
 
 namespace HRM.Controllers
 {
@@ -25,66 +21,30 @@ namespace HRM.Controllers
 
             //Check the user name and password  
             //Here can be implemented checking logic from the database  
-            ClaimsIdentity identity = null;
-            bool isAuthenticated = false;
 
             if (userName == "Admin" && password == "password")
             {
 
                 //Create the identity for the user  
-                    identity = new ClaimsIdentity(new[] {
-                    new Claim(ClaimTypes.Name, userName),
-                    new Claim(ClaimTypes.Role, "Admin")
+                var identity = new ClaimsIdentity(new[] {
+                    new Claim(ClaimTypes.Name, userName)
                 }, CookieAuthenticationDefaults.AuthenticationScheme);
-                isAuthenticated = true;
+
+                var principal = new ClaimsPrincipal(identity);
+
+                HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
+
+                return RedirectToAction("Index", "Home");
             }
-            if (userName == "John" && password == "john12")
-            {
-
-                //Create the identity for the user  
-                identity = new ClaimsIdentity(new[] {
-                    new Claim(ClaimTypes.Name, userName),
-                    new Claim(ClaimTypes.Role, "User")
-                }, CookieAuthenticationDefaults.AuthenticationScheme);
-                isAuthenticated = true;
-            }
-            if (userName == "Rich" && password == "rich123")
-            {
-
-                //Create the identity for the user  
-                identity = new ClaimsIdentity(new[] {
-                    new Claim(ClaimTypes.Name, userName),
-                    new Claim(ClaimTypes.Role, "User")
-                }, CookieAuthenticationDefaults.AuthenticationScheme);
-                isAuthenticated = true;
-            }
-            if (userName == "Riya" && password == "riya124")
-            {
-
-                //Create the identity for the user  
-                identity = new ClaimsIdentity(new[] {
-                    new Claim(ClaimTypes.Name, userName),
-                    new Claim(ClaimTypes.Role, "User")
-                }, CookieAuthenticationDefaults.AuthenticationScheme);
-                isAuthenticated = true;
-            }
-            if (isAuthenticated)
-                {
-                    var principal = new ClaimsPrincipal(identity);
-
-                    var login = HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
-
-                    return RedirectToAction("Index", "DashBoard");
-                }
-            
 
             return View();
         }
+        [Route("Logout")]
         [HttpPost]
         public IActionResult Logout()
         {
-            var login = HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Login");
+             HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Login","Account");
         }
     }
 }

@@ -12,3 +12,19 @@ C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.
 C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.dll
 C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.xml
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.dll.config
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\HM.Model.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\HM.Model.pdb
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.xml
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.csprojAssemblyReference.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.csproj.CopyComplete
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.dll
+C:\Users\deepa\Desktop\Git upload\Gateway_Assignments\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.pdb

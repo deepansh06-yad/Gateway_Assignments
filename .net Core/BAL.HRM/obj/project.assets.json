@@ -5747,19 +5747,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\deepansh.yadav\\.nuget\\packages\\": {}
+    "C:\\Users\\deepa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\database-main\\BAL.HRM\\BAL.HRM.csproj",
+      "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\BAL.HRM\\BAL.HRM.csproj",
       "projectName": "BAL.HRM",
-      "projectPath": "D:\\database-main\\BAL.HRM\\BAL.HRM.csproj",
-      "packagesPath": "C:\\Users\\deepansh.yadav\\.nuget\\packages\\",
-      "outputPath": "D:\\database-main\\BAL.HRM\\obj\\",
+      "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\BAL.HRM\\BAL.HRM.csproj",
+      "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\BAL.HRM\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\deepansh.yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5773,11 +5777,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\database-main\\DAL.HRM\\DAL.HRM.csproj": {
-              "projectPath": "D:\\database-main\\DAL.HRM\\DAL.HRM.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\DAL.HRM\\DAL.HRM.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\DAL.HRM\\DAL.HRM.csproj"
             },
-            "D:\\database-main\\Models\\Models.csproj": {
-              "projectPath": "D:\\database-main\\Models\\Models.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\.net Core\\Models\\Models.csproj"
             }
           }
         }
@@ -5806,7 +5810,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

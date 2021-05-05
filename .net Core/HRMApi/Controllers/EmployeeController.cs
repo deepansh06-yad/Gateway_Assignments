@@ -13,39 +13,39 @@ namespace HRMApi.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        private readonly IEmployeeManager _context;
-        public EmployeeController(IEmployeeManager context)
+        private readonly IEmployeeManager _employeemanager;
+        public EmployeeController(IEmployeeManager employeemanager)
         {
-            _context = context;
+            _employeemanager = employeemanager;
         }
         [HttpGet]
         public IActionResult GetEmployees()
         {
-            List<EmployeeModel> employee = _context.GetallEmployee();
+            List<EmployeeModel> employee = _employeemanager.GetallEmployee();
             return Ok(employee);
         }
         [HttpGet("{Id}")]
         public IActionResult GetEmployeeById(int Id)
         {
-            var employee = _context.GetEmployeeById(Id);
+            var employee = _employeemanager.GetEmployeeById(Id);
             return Ok(employee);
         }
         [HttpPost]
         public IActionResult CreateEmployee([FromBody]EmployeeModel model)
         {
-            var employee = _context.CreateEmployee(model);
+            var employee = _employeemanager.CreateEmployee(model);
             return Ok(employee);
         }
         [HttpDelete("{Id}")]
         public IActionResult DeleteEmployee(int Id)
         {
-            var employee = _context.DeleteEmployee(Id);
+            var employee = _employeemanager.DeleteEmployee(Id);
             return Ok(employee);
         }
         [HttpPut("{Id}")]
         public IActionResult UpdateEmployee(int Id,[FromBody]EmployeeModel model)
         {
-            var emp = _context.UpdateEmployee(Id,model);
+            var emp = _employeemanager.UpdateEmployee(Id,model);
             return Ok(emp);
         }
     }
