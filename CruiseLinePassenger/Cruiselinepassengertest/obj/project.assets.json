@@ -1764,11 +1764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
+      "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
       "projectName": "Cruiselinepassengertest",
-      "projectPath": "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
+      "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
       "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\obj\\",
+      "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1785,17 +1785,17 @@
       "frameworks": {
         "net48": {
           "projectReferences": {
-            "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj": {
-              "projectPath": "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj"
             },
-            "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj": {
-              "projectPath": "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj"
             },
-            "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj"
             },
-            "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj": {
-              "projectPath": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj"
+            "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj"
             }
           }
         }

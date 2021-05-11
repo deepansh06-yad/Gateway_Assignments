@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj"
               },
-              "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj"
               }
             }
           }
@@ -26,14 +26,14 @@
         "net48": {}
       }
     },
-    "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
         "projectName": "Cruiselinepassengertest",
-        "projectPath": "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\Cruiselinepassengertest.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\CruiseLinePassenger\\Cruiselinepassengertest\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Cruiselinepassengertest\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -50,17 +50,17 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj"
               },
-              "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj"
               },
-              "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj"
               },
-              "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj"
               }
             }
           }
@@ -120,22 +120,22 @@
         }
       }
     },
-    "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj",
         "projectName": "CruiseLinePassenger",
-        "projectPath": "E:\\Projects\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\CruiseLinePassenger\\CruiseLinePassenger.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\BAL\\BAL.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\BAL\\BAL.csproj"
               },
-              "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj"
               },
-              "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj"
               }
             }
           }
@@ -145,16 +145,16 @@
         "net48": {}
       }
     },
-    "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\Projects\\CruiseLinePassenger\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\DAL\\DAL.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj": {
-                "projectPath": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj"
+              "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj"
               }
             }
           }
@@ -164,11 +164,11 @@
         "net48": {}
       }
     },
-    "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj": {
+    "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\Projects\\CruiseLinePassenger\\Model\\Model.csproj"
+        "projectPath": "C:\\Users\\deepa\\Desktop\\Git upload\\Gateway_Assignments\\CruiseLinePassenger\\Model\\Model.csproj"
       },
       "frameworks": {
         "net48": {}
