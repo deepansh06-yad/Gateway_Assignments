@@ -41,18 +41,18 @@ namespace Cruiselinepassengertest
             };
             return passengers;
         }
-        //[Fact]
-        //public void Delete_passenger()
-        //{
-        //    var user = new Model.CruisePassengermodel();
-        //    user.Id = 1;
-        //    //Arrange
-        //    var resultobj = mocktempobj.Setup(x => x.DeletePassenger(user.Id)).Returns(true.ToString());
-        //    //Act
-        //    var response = _passenger.Delete(user.Id);
-        //    // Assert
-        //    Assert.True(response);
-        //}
+        [Fact]
+        public void Delete_passenger()
+        {
+            var user = new Model.CruisePassengermodel();
+            user.Id = 1;
+            //Arrange
+            var resultobj = mocktempobj.Setup(x => x.DeletePassenger(user.Id)).Returns(true.ToString());
+            //Act
+            var response = _passenger.Delete(user.Id);
+            // Assert
+            Assert.True(response);
+        }
         [Fact]
         public void test_getuserbyid()
         {
